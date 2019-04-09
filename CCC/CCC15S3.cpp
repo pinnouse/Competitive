@@ -1,5 +1,5 @@
 ///CREDIT: https://dmoj.ca/problem/ccc15s3/editorial
-#include <bits/stdc++.h>
+#include <cstdio>
 
 using namespace std;
 
